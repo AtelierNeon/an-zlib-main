@@ -1,0 +1,3 @@
+[submodule "source/zlib"]
+	path = source/zlib
+	url = ../an-zlib-gsm.git
