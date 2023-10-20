@@ -1,3 +1,6 @@
+[submodule "source/cmake-modules"]
+	path = source/cmake-modules
+	url = ../an-cmake-modules-gsm.git
 [submodule "source/zlib"]
 	path = source/zlib
 	url = ../an-zlib-gsm.git
