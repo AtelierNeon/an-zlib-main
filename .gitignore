@@ -1,0 +1,11 @@
+# folders
+build/
+dist/
+temp/
+
+# files
+*.log
+*.tmp
+*.userprefs
+.DS_Store
+foo.gz
