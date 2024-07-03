@@ -9,6 +9,7 @@ UNAME_CLI=/usr/bin/uname
 SYSTEM_PLATFORM=$($UNAME_CLI)
 
 echo "[$SYSTEM_PLATFORM] Applying preset options ..."
+MY_PROJECT_ZLIB_WITHOUT_INSTALL_FILES=ON
 MY_PROJECT_ZLIB_WITHOUT_TEST_APPS=ON
 echo "[$SYSTEM_PLATFORM] Applying default options ... DONE"
 
